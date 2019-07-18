@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+	
+<style>
+body {
+        color: green;
+}
+th {
+        color:red;
+}
+td{
+        color: black;
+}
+</style>
+</head>
+<body>
+ 
+<h2><br/>TABLO OLUŞTURMA</h2>
+<br>
+<table style="width: %100">
+	<tr>
+	    <th> İSİM </th>
+		<th>SOYİSİM</th>
+		<th>NUMARA</th>
+
+	</style>
+
+	</tr>
+	<tr>
+		<td> Şevval</td>
+		<td> Karakoç </td>
+		<td>95180046</td>
+	</tr>
+
+
+	<tr>
+	<td>Büşra</td>
+	<td>Coşkun</td>
+	<td>95180081</td>
+
+	</tr>
+
+<tr>
+	<tr>
+		
+	</tr>
+</tr>
+	<tr>
+
+		<th>OKUL</th>
+		<th>BÖLÜM</th>
+		<th>AMAÇ</th>
+	</tr>
+
+
+	<tr>
+    <td>İstanbul Medipol Üniversitesi</td>
+    <td>Yönetim bilişim sistemleri (MIS)</td>
+    <td>Yazılım derslerine hakim olup , işletme alanında da ilerlemek</td>
+    </tr>
+
+
+     <tr>
+	<td>İstanbul Medipol Üniversitesi</td>
+	<td>MIS</td>
+	<td>Yazılım derslerine hakim olup , işletme alanında da ilerlemek</td>
+</tr>
+
+</table>
+</body>
+</head>
+</html>
