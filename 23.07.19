@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		.cities {
+			background-color: pink;
+			color: black;
+			margin:20px;
+			padding: 20px;
+
+		}
+	</style>
+</head>
+<body>
+	<div class="cities">
+		<h2>London</h2>
+		<p>londra çok güzel bir yerdir </p>
+	</div>
+	<div class="cities">
+		<h2>Turkey</h2>
+		<p>Türkiye çok güzel bi ülkedir </p>
+	</div>
+	<div class="cities">
+		<h2>Dubaı</h2>
+		<p>Dubaı çok güzel bir ülkedir</p>
+	</div>
+</body>
+</html>
+
+</html>
