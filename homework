@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+	<table style="width:100%">
+  <tr>
+    <th>MONDAY</th>
+    <th>TUESDAY</th> 
+    <th>WEDNESDAY</th>
+    <th>THURSDAY</th>
+    <th>FRIDAY</th>
+ </tr>
+  <tr>
+  	<td>Matematik</td>
+  	<td>Boş</td>
+  	<td>Türkçe</td>
+  	<td>Coğrafya</td>
+  	<td>Tarih</td>
+  </tr>
+<tr>
+	<td>Matematik</td>
+	<td>Resim</td>
+	<td>Türkçe</td>
+	<td>Coğrafya</td>
+	<td>Müzik</td>
+</tr>
+<tr>
+    <td>Fen</td>
+    <td>Beden</td>
+    <td>Matematik</td>
+    <td>Boş</td>
+    <td>Türkçe</td>
+</tr>
+<tr>
+	<td>Fen</td>
+	<td>Beden</td>
+	<td>Matematik</td>
+	<td>Boş</td>
+	<td>Türkçe</td>
+</tr>
+</table>
+</body>
+</html>
