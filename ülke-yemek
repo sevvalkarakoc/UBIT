@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<style>
+	.mavi{
+		background-color: orange;
+		color: purple ;
+		padding: 15px;
+	}
+	.siyah{
+		background-color: purple;
+		color:orange;
+		padding: 15px;
+	}
+</style>
+<body>
+	<ol color:black type="1">
+		<dl>
+	<dt><h2> Gitmek İstediğim Ülkeler </h2></dt>
+	<dd><h2 class="mavi"> İNGİLTERE </h2></dd>
+	<dt><h2 class="siyah"> DUBAI </h2></dt>
+	<dd><h2 class="mavi"> İZLANDA </h2></dd>
+	<dt><h2 class="siyah"> RUSYA </h2><dt>
+	<dd><h2 class="mavi"> ALMANYA </h2></dd>
+	<dt><h2 class="siyah"> FRANSA </h2></dt>
+	   </dl>
+	   <dl>
+	   <dt><h2>Denemek İstediğim Yemekler</h2></dt>
+	   <dd><h2 class="mavi"> SUSHİ</h2></dd>
+	   <dt><h2 class="siyah">FALAFEL </h2></dt>
+	   <dd><h2 class="mavi">NOODLE</h2></dd>
+	</dl>
+</ol>
+</body>
+</html>
